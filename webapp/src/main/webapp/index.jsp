@@ -1,10 +1,10 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>welcome to nashik</h1>
+    <h1>welcome to india </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="welcome to nashik "><b>Enter Name</b></label>
+    <label for="welcome to india "><b>Enter Name</b></label>
     <input type="text" placeholder="aarohi" name="Name" id="Name" required>
     <br>
     
@@ -16,11 +16,11 @@
     <input type="text" placeholder="aarohikathe2105@gmail.com" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Password</b></label>
+    <label for="psw"><b>piu Password</b></label>
     <input type="password" placeholder="Password@123" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <label for="psw-repeat"><b>piu Password</b></label>
     <input type="password" placeholder="Password@123" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
